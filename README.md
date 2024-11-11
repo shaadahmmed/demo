@@ -1,4 +1,3 @@
-# demo
+# My First Demo Git
 
-
-test commit
+Trying to commit from VSCode
