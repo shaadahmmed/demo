@@ -2,4 +2,4 @@
 
 software engineering class
 
-this is a test project --> dev
+this is a test project --> main
